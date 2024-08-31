@@ -1,0 +1,61 @@
+﻿@page
+@model CampusCraft.Pages.showdetailsModel
+@{
+}
+
+<html>
+    <head>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin-top:6%;
+        }
+
+        td, th {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+    </head>
+	<body>
+		<h1>Greetings!!!</h1>
+		<h3>Student details applied for company </h3>
+
+    <form method="post">
+        <select name="selectedField">
+            <option>bajajfinserv</option>
+            <option>flipkart</option>
+            <option>crowdstrike</option>
+            <option>microsoft</option>
+            <option>KPMG</option>
+            <option>netflix</option>
+        </select>
+        <button type="submit">Fetch Data</button>
+    </form>
+
+    @if (Model.Data != null && Model.Data.Count > 0)
+    {
+        <table border="1">
+            <tr>
+                <th>name</th>
+                <th>email</th>
+                <th>collegeid</th>
+                <th>12th percentage</th>
+                <th>graduation percentage</th>
+                <th>gender</th>
+                <th>cover letter</th>
+            </tr>
+            @foreach (var row in Model.Data)
+            {
+                <tr>
+                    @foreach (var cell in row)
+                    {
+                        <td>@cell</td>
+                    }
+                </tr>
+            }
+        </table>
+    }
+
+</body>
+</html>

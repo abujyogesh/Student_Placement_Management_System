@@ -1,0 +1,51 @@
+﻿@page
+@model CampusCraft.Pages.placelogModel
+@{
+}
+
+<html>
+<head>
+	<style type="text/css">
+		.tx {
+			margin-top: 10%;
+			width: 100%;
+			padding: 12px 20px;
+			border-style: solid;
+			box-sizing: border-box;
+		}
+
+		.tx1 {
+			margin-top: 10%;
+			float: left;
+		}
+
+		.tx2 {
+			margin-top: 10%;
+			width: 90%;
+			align-content: center;
+			background-color: aqua;
+		}
+	</style>
+</head>
+<body style="background-color:azure">
+
+	<div class="container">
+		<div class="row" style="align-content:center">
+			<div class="col-md-4" style="margin-left:33%;background-color:white;text-align:center;border-style:solid;margin-top:5%;border-radius:10%;">
+				<form name="f1" method="post">
+					<h3 style="margin-top:20px;">PLACEMENT LOGIN</h3>
+					<input type="text" placeholder="ENTER USERNAME" id="username" name="username" required class="tx" />
+					<input type="password" placeholder="ENTER password" id="password" name="password" required class="tx" />
+
+					<button class="tx2" name="submit"><span> Submit </span></button>
+					<br /><br /><br />
+				</form>
+			</div>
+		</div>
+	</div>
+
+	
+
+</body>
+</html>
+

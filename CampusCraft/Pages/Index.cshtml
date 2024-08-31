@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<html>
+<head>
+
+    <style type="text/css">
+    body
+    {
+            background-image: url('https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?cs=srgb&dl=pexels-pixabay-267885.jpg&fm=jpg');
+        background-repeat:no-repeat;
+        background-size:100% 100%;
+        background-attachment:fixed;
+    }
+    #a
+    {
+        text-align:center;
+        margin-top:12%;
+            color: #FFE4C9;
+            font-family: ;
+            font-weight: bold;
+    }
+    </style>
+</head>
+<body>
+<div class="text-center" id="a">
+    <h1 class="display-4" style="font-weight:bold;">CampusCraft</h1><br />
+        <h5 style="color:#070F2B;margin-top:8px;">We Are Here To  Build your Skills And Carrier With Our Driven Passion And Reality</h5>
+        <h5 style="color:#070F2B;">Click Below To Get Our Current Drive Details</h5>
+        <a class="btn btn-danger" asp-area="" asp-page="/CurrentDrives"  role="button" style="margin-top:20px">Current Drives</a>
+        
+</div>
+</body>
+</html>

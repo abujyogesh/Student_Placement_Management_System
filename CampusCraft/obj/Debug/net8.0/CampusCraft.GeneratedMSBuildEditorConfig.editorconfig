@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CampusCraft
+build_property.RootNamespace = CampusCraft
+build_property.ProjectDir = C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWJvdXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/adminlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWRtaW5sb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/amazon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYW1hem9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/apply_drive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYXBwbHlfZHJpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/bajajfinserv.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYmFqYWpmaW5zZXJ2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/crowdstrike.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3Jvd2RzdHJpa2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/CurrentDrives.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVudERyaXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/flipkart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmxpcGthcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/latest_drive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGF0ZXN0X2RyaXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/placelog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGxhY2Vsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/seemore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VlbW9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/showdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hvd2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/studlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/upcoming_drives.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXBjb21pbmdfZHJpdmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROHAN/Desktop/project campuscraft/CampusCraft/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b0jiiyd0ut

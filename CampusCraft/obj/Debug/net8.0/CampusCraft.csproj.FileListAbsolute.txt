@@ -1,0 +1,116 @@
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\appsettings.json
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.staticwebassets.runtime.json
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.exe
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.deps.json
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.runtimeconfig.json
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\CampusCraft.pdb
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.AssemblyInfoInputs.cache
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.AssemblyInfo.cs
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.CoreCompileInputs.cache
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.RazorAssemblyInfo.cache
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.RazorAssemblyInfo.cs
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.CampusCraft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.build.CampusCraft.props
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CampusCraft.props
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CampusCraft.props
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\scopedcss\bundle\CampusCraft.styles.css
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\scopedcss\projectbundle\CampusCraft.bundle.scp.css
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.dll
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\refint\CampusCraft.dll
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.pdb
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.genruntimeconfig.cache
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\ref\CampusCraft.dll
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.AssemblyReference.cache
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abujy\source\repos\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abujy\source\repos\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.CopyComplete
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\refint\CampusCraft.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.pdb
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\appsettings.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.staticwebassets.runtime.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.exe
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.deps.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.runtimeconfig.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\CampusCraft.pdb
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.AssemblyReference.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.AssemblyInfoInputs.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.AssemblyInfo.cs
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.CoreCompileInputs.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.RazorAssemblyInfo.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.RazorAssemblyInfo.cs
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.CampusCraft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.build.CampusCraft.props
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CampusCraft.props
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CampusCraft.props
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\scopedcss\bundle\CampusCraft.styles.css
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\scopedcss\projectbundle\CampusCraft.bundle.scp.css
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.csproj.CopyComplete
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\CampusCraft.genruntimeconfig.cache
+C:\Users\ROHAN\Desktop\project campuscraft\CampusCraft\obj\Debug\net8.0\ref\CampusCraft.dll

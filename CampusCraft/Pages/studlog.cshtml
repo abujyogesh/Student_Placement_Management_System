@@ -1,0 +1,91 @@
+﻿@page
+@model CampusCraft.Pages.studlogModel
+@{
+}
+<html>
+
+	<head>
+		<script type="text/javascript">
+			function formvalidate(thisform) {
+				var email = thisform.value.value;
+				var pass = thisform.pass.value;
+				if (email == null || email == "") {
+					alert("Please enter your Email!");
+					thisform.value.focus();
+					return false;
+				}
+				if (email.length < 15) {
+					alert("Email must contains atleast 6 characters!");
+					thisform.value.focus();
+					return false;
+				}
+				if (pass == null || pass == "") {
+					alert("Please enter your password!");
+					thisform.pass.focus();
+					return false;
+				}
+				if (pass.length < 6) {
+					alert("Password must contains atleast 6 characters!");
+					thisform.pass.focus();
+					return false;
+				}
+				else {
+					alert("Login Succesfull!");
+				}
+				return true;
+			}
+			
+		</script>
+		<style type="text/css">
+		.tx
+		{
+			margin-top:10%;
+			width: 100%;
+			padding: 12px 20px;
+			border-style:solid;
+			box-sizing: border-box;
+
+
+		}
+		.tx1
+		{
+			margin-top:10%;
+			float:left;
+		}
+		.tx2
+		{
+			margin-top:10%; 
+			width:90%;
+			align-content:center;
+			background-color:aqua;
+		}
+	</style>
+	</head>
+	<body style="background-color:azure">
+
+		<div class="container">
+			<div class="row" style="align-content:center">
+			<div class="col-md-4" style="margin-left:33%;background-color:white;text-align:center;border-style:solid;margin-top:5%;border-radius:10%;">
+					<form name="f1" method="post" onsubmit="return formvalidate(this)" >
+					<h3 style="margin-top:20px;">STUDENT LOGIN</h3>
+					<input type="text" placeholder="ENTER EMAIL" id="email" name="email" required class="tx" />
+					<input type="password" placeholder="ENTER PASSWORD" id="pass" name="pass" required class="tx" />
+					
+					<button type="submit" class="tx2" name="submit"><span> Submit </span></button>
+					<br /><br /><br />
+				</form>
+			</div>
+			</div>
+		</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4" style="margin-left:33%;background-color:white;text-align:center;border-style:solid;margin-top:5%;">
+				<h7>Not a Register User Yet?<a href="registration" style="text-decoration:none;"> sign up now</a></h7>
+				
+			</div>
+		</div>
+	</div>
+	
+	</body>
+</html>

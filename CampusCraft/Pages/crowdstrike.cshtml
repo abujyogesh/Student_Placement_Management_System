@@ -1,0 +1,87 @@
+﻿@page
+@model CampusCraft.Pages.crowdstrikeModel
+@{
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <h1>Apply for a Job</h1>
+    <form method="post">
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+
+        <label for="college id">College Id Number</label>
+        <input type="text" id="idnumber" name="idnumber" required><br />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="per12">Enter 12th Percentage:</label>
+        <input type="text" id="per12" name="per12" required>
+
+        <label for="graper">Enter graduation Percentage</label>
+        <input type="text" id="pergra" name="pergra" required><br />
+
+        <label for="gender">gender</label><br /><br />
+        <input type="radio" id="gender" name="gender" value="male" />Male
+        <input type="radio" id="gender" name="gender" value="female" />Female<br /><br />
+
+        <label for="resume">Upload Resume:</label>
+        <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx" required><br /><br />
+
+        <label for="coverletter">Cover Letter:</label>
+        <textarea id="coverletter" name="coverletter" rows="4" required></textarea>
+
+        <input type="submit" value="Submit Application" style="margin-left:35%;">
+    </form>
+    <br />
+    <br />
+    <br />
+</body>
+</html>
+

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CampusCraft</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CampusCraft.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <img src="https://cdn-icons-png.flaticon.com/128/11943/11943830.png" width="50" height="50" style="margin-left:20" />&nbsp;&nbsp;&nbsp;
+                <a class="navbar-brand text-light" asp-area="" asp-page="/Index">CampusCraft</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+               
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" style="margin-left:400px">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item" style="margin-right:20px;">
+                            <a class="nav-link text-light" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item" style="margin-right:20px;">
+                            <a class="nav-link text-light" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>
+                        <li class="nav-item" style="margin-right:20px;">
+                            <a class="nav-link text-light" asp-area="" asp-page="/aboutus">About Us</a>
+                        </li>
+                        <li class="nav-item" style="margin-right:20px;">
+                            <a class="nav-link text-light" asp-area="" asp-page="/studlog">Student Login</a>
+                        </li>
+                        <li class="nav-item" style="margin-right:20px;">
+                            <a class="nav-link text-light" asp-area="" asp-page="/placelog">Placement Login</a>
+                        </li>
+                       
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted bg-dark text-light" style="height:90px;">
+      <div class="row">
+          <div class="col-md-4">
+                <div class="container-fluid text-light text-center">
+                    &copy; 2024 - CampusCraft - <a asp-area="" asp-page="/Privacy">Privacy</a>
+                </div>
+          </div>
+            <div class="col-md-4">
+                <div class="container-fluid text-light text-center">
+                    <h6 style="margin-top:10px;font-weight:bold;">Address</h6>
+                    ICCS,Wakad,Pune
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="container-fluid text-light text-center">
+                    <h6 style="margin-top:10px;font-weight:bold;"> Indira Group Of Institute</h6>
+                    CampusCraft
+
+                </div>
+            </div>
+
+      </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
