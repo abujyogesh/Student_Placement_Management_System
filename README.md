@@ -20,11 +20,6 @@ The **Student Placement Management System** is a comprehensive solution designed
 - **Other Tools**: Bootstrap
 
 ## Installation and Setup
-Here's a "Run on Server" section tailored for a C# project:
-
----
-
-## Run on Server
 
 To run the **Student Placement Management System** on a server using C#, follow these steps:
 
